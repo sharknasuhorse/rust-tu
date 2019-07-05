@@ -1,0 +1,6 @@
+target/
+**/*.rs.bk
+main
+Cargo.lock
+Cargo.toml
+.git
